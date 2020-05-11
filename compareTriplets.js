@@ -1,3 +1,5 @@
+//hackerrank code problem that calculates the absolute difference between cross diagnol pairs
+
 a=[5,6,7]
 b=[3,6,10]
 
